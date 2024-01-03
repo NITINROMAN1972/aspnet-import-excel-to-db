@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33919.361
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Excel Upload to DB", "Excel Upload to DB\", "{23D7A021-D2F2-4C3C-B1E6-B7E5738335C3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59000"
+		Debug.AspNetCompiler.PhysicalPath = "Excel Upload to DB\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59000\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59000"
+		Release.AspNetCompiler.PhysicalPath = "Excel Upload to DB\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59000\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59000"
+		SlnRelativePath = "Excel Upload to DB\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23D7A021-D2F2-4C3C-B1E6-B7E5738335C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D7A021-D2F2-4C3C-B1E6-B7E5738335C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAAA3953-7A5C-4FB0-9130-BB2045E9BA12}
+	EndGlobalSection
+EndGlobal
